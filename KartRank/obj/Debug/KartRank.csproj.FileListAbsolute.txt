@@ -1,0 +1,90 @@
+C:\Projetos\KartRank\KartRank\bin\KartRank.dll.config
+C:\Projetos\KartRank\KartRank\bin\KartRank.dll
+C:\Projetos\KartRank\KartRank\bin\KartRank.pdb
+C:\Projetos\KartRank\KartRank\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\KartRank\KartRank\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projetos\KartRank\KartRank\bin\Newtonsoft.Json.dll
+C:\Projetos\KartRank\KartRank\bin\System.Net.Http.Formatting.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.Helpers.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.Http.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.Http.WebHost.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.Mvc.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.Razor.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.dll
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\KartRank\KartRank\bin\Newtonsoft.Json.xml
+C:\Projetos\KartRank\KartRank\bin\System.Net.Http.Formatting.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.Helpers.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.Http.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.Http.WebHost.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.Mvc.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.Razor.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\KartRank\KartRank\obj\Debug\KartRank.csprojResolveAssemblyReference.cache
+C:\Projetos\KartRank\KartRank\obj\Debug\KartRank.dll
+C:\Projetos\KartRank\KartRank\obj\Debug\KartRank.pdb
+C:\Projetos\KartRank\KartRank\bin\Business.dll
+C:\Projetos\KartRank\KartRank\bin\Models.dll
+C:\Projetos\KartRank\KartRank\bin\Business.pdb
+C:\Projetos\KartRank\KartRank\bin\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\KartRank.dll.config
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\KartRank.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\KartRank.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Business.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Models.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Newtonsoft.Json.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Helpers.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Http.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Mvc.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Razor.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Business.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\Newtonsoft.Json.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Helpers.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Http.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Mvc.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.Razor.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\obj\Debug\KartRank.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\obj\Debug\KartRank.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\KartRank\obj\Debug\KartRank.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\KartRank.dll.config
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\KartRank.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\KartRank.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Business.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Models.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Newtonsoft.Json.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Helpers.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Mvc.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Razor.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Business.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Models.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\Newtonsoft.Json.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Helpers.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Mvc.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.Razor.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\obj\Debug\KartRank.csprojResolveAssemblyReference.cache
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\obj\Debug\KartRank.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\KartRank\obj\Debug\KartRank.pdb

@@ -1,0 +1,14 @@
+C:\Projetos\KartRank\Business\bin\Debug\Business.dll
+C:\Projetos\KartRank\Business\bin\Debug\Business.pdb
+C:\Projetos\KartRank\Business\bin\Debug\Models.dll
+C:\Projetos\KartRank\Business\bin\Debug\Models.pdb
+C:\Projetos\KartRank\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Projetos\KartRank\Business\obj\Debug\Business.dll
+C:\Projetos\KartRank\Business\obj\Debug\Business.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\bin\Debug\Business.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\bin\Debug\Business.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\bin\Debug\Models.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\bin\Debug\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\obj\Debug\Business.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\Business\obj\Debug\Business.pdb

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Models.RankModel>
+<link href="~/App_Themes/style.css" rel="stylesheet" />
+
+@{
+    ViewBag.Title = "kart-Rank";
+}
+
+<h2>Rank</h2>
+
+<table>
+    <thead>
+    <th>Posição</th>
+    <th>Código Piloto</th>
+    <th>Nome Piloto</th>
+    <th>Qtde Voltas Completadas</th>
+    <th>Tempo Total de Prova</th>
+    <th>Melhor Volta</th>
+    <th>Atraso</th>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Posicao
+            </td>
+            <td>
+                @item.CodigoPiloto
+            </td>
+            <td>
+                @item.NomePiloto
+            </td>
+            <td>
+                @item.QtdVoltas
+            </td>
+            <td>
+                @String.Format("{0:mm\\:ss\\:fff}", @item.TempoTotal)
+            </td>
+            <td>
+                @String.Format("{0:mm\\:ss\\:fff}", @item.MelhorVolta)
+            </td>
+            <td>
+                @item.TempoAtraso
+            </td>
+            
+        </tr>
+
+    }
+
+</table>
+
+<h1>Melhor Volta da Corrida </h1>
+
+<h3>@ViewBag.MelhorVoltaCorrida</h3>  

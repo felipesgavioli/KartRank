@@ -1,0 +1,10 @@
+C:\Projetos\KartRank\Models\bin\Debug\Models.dll
+C:\Projetos\KartRank\Models\bin\Debug\Models.pdb
+C:\Projetos\KartRank\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Projetos\KartRank\Models\obj\Debug\Models.dll
+C:\Projetos\KartRank\Models\obj\Debug\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\Models\bin\Debug\Models.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\Models\bin\Debug\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Neto\Downloads\KartRank\Models\obj\Debug\Models.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\Models\obj\Debug\Models.pdb

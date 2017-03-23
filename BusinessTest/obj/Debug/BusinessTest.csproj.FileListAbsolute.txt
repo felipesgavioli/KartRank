@@ -1,0 +1,29 @@
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\BusinessTest.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\BusinessTest.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Business.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Castle.Core.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Models.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Moq.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Business.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Models.pdb
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Castle.Core.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\bin\Debug\Moq.xml
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\obj\Debug\BusinessTest.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\obj\Debug\BusinessTest.dll
+C:\Users\Sebastião Neto\Downloads\KartRank\BusinessTest\obj\Debug\BusinessTest.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\BusinessTest.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\BusinessTest.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Business.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Castle.Core.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Models.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Moq.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Business.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Models.pdb
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Castle.Core.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Moq.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\obj\Debug\BusinessTest.csprojResolveAssemblyReference.cache
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\obj\Debug\BusinessTest.dll
+C:\Users\Jair\Documents\Jair\Projetos\KartRank\BusinessTest\obj\Debug\BusinessTest.pdb
